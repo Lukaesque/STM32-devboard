@@ -1,0 +1,31 @@
+### Footprint positions - created on 2025-06-28T10:52:00-0700 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val             Package                               PosX       PosY       Rot  Side
+C1        22uF            C_0805_2012Metric                  20.6089   -54.0719   90.0000  top
+C2        14pF            C_0402_1005Metric                  25.5500   -24.3569  -90.0000  top
+C3        14pF            C_0402_1005Metric                  19.7500   -24.5069   90.0000  top
+C4        22u             C_0805_2012Metric                  20.6000   -50.0000  -90.0000  top
+C5        10uF            C_0603_1608Metric                  24.9000   -39.7625  180.0000  top
+C6        100nF           C_0402_1005Metric                  24.2396   -27.0338  180.0000  top
+C7        100nF           C_0402_1005Metric                  21.0000   -26.5569  180.0000  top
+C8        100nF           C_0402_1005Metric                  26.2658   -28.4204    0.0000  top
+C9        100nF           C_0402_1005Metric                  16.7965   -36.6508  135.0000  top
+C10       100nF           C_0402_1005Metric                  24.5500   -38.5000  180.0000  top
+C11       10nF            C_0402_1005Metric                  19.0969   -26.9444  180.0000  top
+C12       1uF             C_0402_1005Metric                  18.3541   -25.9059  180.0000  top
+C13       1uF             C_0402_1005Metric                  17.5000   -28.3069   90.0000  top
+D1        LED             LED_0805_2012Metric                16.6000   -58.5000   90.0000  top
+FB1       120             C_0201_0603Metric                  18.3125   -28.2229  -90.0000  top
+J1        Conn_01x10_Pin  PinHeader_1x10_P2.54mm_Vertical    30.0000   -19.0000    0.0000  top
+J2        Conn_01x10_Pin  PinHeader_1x10_P2.54mm_Vertical    14.0000   -19.4200    0.0000  top
+J3        USB_B_Micro     USB_Micro-B_Molex-105017-0001      22.0000   -59.3000    0.0000  top
+R1        1k5             R_0402_1005Metric                  14.2963   -59.8528    0.0000  top
+R2        10k             R_0402_1005Metric                  27.9000   -45.7500   90.0000  top
+R3        1k5             R_0402_1005Metric                  23.9000   -49.8000  180.0000  top
+SW1       SW_SPDT         Switch_!!!!                        27.3500   -51.5000   90.0000  top
+U1        AMS1117-3.3     SOT-223-3_TabPin2                  16.0000   -52.0000   90.0000  top
+U2        STM32F103C8T6   LQFP-48_7x7mm_P0.5mm               22.0000   -32.8069  -90.0000  top
+Y1        16MHz           Crystal_SMD_3225-4Pin_3.2x2.5mm    22.6500   -24.3069  180.0000  top
+## End
